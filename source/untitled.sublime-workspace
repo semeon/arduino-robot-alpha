@@ -27,14 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "RobotAlpha.ino",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -138,6 +130,8 @@
 	},
 	"file_history":
 	[
+		"/Users/semeon/Dev/Arduino/arduino-robot-alpha/source/LED.h",
+		"/Users/semeon/Dev/Arduino/arduino-robot-alpha/source/RobotAlpha.ino",
 		"/Users/semeon/Dev/Arduino/arduino-robot-alpha/source/RobotAlpha",
 		"/Users/semeon/Desktop/YYogaPreview.xml",
 		"/Users/semeon/Desktop/FunctionDataSQL.txt",
@@ -302,37 +296,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "RobotAlpha.ino",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/User/Stino/Arduino.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
